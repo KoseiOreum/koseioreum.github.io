@@ -131,8 +131,8 @@ navigation_header:
 #   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by Jinwoo Kim
-  url: https://blog.jinwoo.dev
+- title:
+  url: 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Instagram: https://instagram.com/koseioreum
