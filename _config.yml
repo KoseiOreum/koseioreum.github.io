@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: ko-KR # Set the site language
 title: "고세오름" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo_long.png" # Site logo, also used in jekyll-seo-tag
-description: "고려대 연세대 등산모임 고세오름 Korea-Yonsei Hiking Club⛰️" # Site description and default description, also used in jekyll-seo-tag
+description: "고려대 연세대 등산모임 고세오름 Korea Yonsei Hiking Club⛰️" # Site description and default description, also used in jekyll-seo-tag
 url: "https://koseioreum.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/koseioreum/koseioreum.github.io"

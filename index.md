@@ -2,14 +2,14 @@
 title: 
 feature_text: |
   ## 고세오름
-  고려대 연세대 등산모임 고세오름 | Korea-Yonsei Hiking Club⛰️
+  고려대 연세대 등산모임 고세오름 ✳ Korea Yonsei Hiking Club⛰️
 feature_image: "./assets/main.jpeg"
 ---
 
-안녕하세요! 고려대X연세대 등산모임 "고세오름"을 소개합니다 😀  
+안녕하세요! 고려대 X 연세대 등산모임 고세오름을 소개합니다 😀  
 저희 모임은 2021년 9월에 생긴 등산 모임으로, 보통 주말 아침 서울 또는 서울 근교 산을 오릅니다.  
-날씨가 좋을 땐 평일 야등을 가기도 하고, 지방 산행은 조만간 가볼 예정에 있습니다.  
-정기모임은 없으며, 등산 후 원하시는 분에 한해 식사를 하거나 까페를 가기도 합니다.  
+날씨가 좋을 땐 평일 야등을 가기도 하고, 지방 산행도 종종 가곤합니다.  
+필수 정기모임은 없으며, 등산 후 원하시는 분에 한해 식사를 하거나 카페를 가기도 합니다.
 
 - 주말 아침 좋은 공기와 자연에서 땀 흘리며 보람차게 보내고 싶으신 분들
 - 평일 저녁 퇴근 후 선선한 바람 속에 야간 등산을 하고 싶은 분들
@@ -22,19 +22,15 @@ feature_image: "./assets/main.jpeg"
   - 내부에 지인이 있는경우 지인 추천인의 닉네임을 꼭 말해주세요
   - 내부에 지인이 없는경우 각 학교 학적 인증을 요구할 수 있습니다
 
-- ⛰️ 고세오름 Instagram  
-  <!-- [![Move to Instagram](./assets/instagram_badge.png)](https://instagram.com/kosei_oreum){:style="background: none"}   -->
-  [https://instagram.com/kosei_oreum](https://instagram.com/kosei_oreum)  
-
-- ⛰️ 가입 문의  
-  <!-- [![Move to Kakaotalk](./assets/kakaotalk_hehheh_badge.png)](https://open.kakao.com/me/heh_heh){:style="background: none"}   -->
-  [https://open.kakao.com/me/heh_heh](https://open.kakao.com/me/heh_heh)
+- ⛰️ 가입 문의 (방장 헿헿 🦅 카카오톡 오픈채팅)  
+[https://bit.ly/apply_koseioreum](https://bit.ly/apply_koseioreum)
 
 ### History
-- 2021.09 방장 가필드 <고연&연고 등산방!> 개설
-- 2023.02 부방장 랄라
-- 2023.08.26 방장 랄라 <KY등산모임🐦🐯> 개편
-- 2023.10.20 부방장 헿헿
-- 2023.11.06 솔방울님 공모 <고세오름> 이름변경
-- 2023.11.16 깡쓰님 공모 고세오름 공식 로고지정
-- 2024.03.01 방장 헿헿
+- 2021.09 방장 가필드 🐅 <고연&연고 등산방!> 개설
+- 2023.02 부방장 랄라 🐅
+- 2023.08 방장 랄라 🐅 <KY등산모임🐦🐯> 개편
+- 2023.10 부방장 헿헿 🦅
+- 2023.11 <고세오름> 이름 변경
+- 2023.11 <고세오름> 공식 로고 지정
+- 2024.03 방장 헿헿 🦅
+- 2024.04 부방장 피치 🦅🐅
