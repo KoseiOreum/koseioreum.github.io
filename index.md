@@ -21,6 +21,7 @@ feature_image: "./assets/main.jpeg"
   - 고려대 / 연세대학교 학부 또는 대학원 졸업생
   - 내부에 지인이 있는 경우 지인 추천인의 닉네임을 꼭 말해주세요.
   - 내부에 지인이 없는 경우 각 학교 학적 인증을 요구할 수 있습니다.
+    - 졸업 증명서, 학생증, 각 학교 포털 내 이름, 학번, 졸업여부가 기재된 페이지 스크린샷
 
 - ⛰️ 가입 문의 (방장 헿헿 🦅 카카오톡 오픈채팅)  
 [https://bit.ly/apply_koseioreum](https://bit.ly/apply_koseioreum)
